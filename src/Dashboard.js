@@ -1,4 +1,4 @@
-// import './Dashboard.css';
+import './Dashboard.css';
 import Chart from "./Chart";
 
 const Dashboard = () => {

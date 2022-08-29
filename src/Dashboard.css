@@ -1,24 +1,30 @@
 .title {
     text-align: center;
-  }
-  
-  .form {
+}
+
+.charts {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.form {
     border: solid black 1px;
-  }
-  
-  .elem {
+}
+
+.elem {
     overflow: hidden;
     display: inline-block;
     width: 150px;
     height: 20px;
-  }
-  
-  .charts {
+    }
+
+.charts {
     text-align: center;
-  }
-  
-  .chart {
+}
+
+.chart {
     border: solid #589636 1px;
     margin: 5px;
     display: inline-block;
-  }
+}
